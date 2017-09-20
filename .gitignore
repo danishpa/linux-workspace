@@ -4,3 +4,5 @@ projects/*
 .viminfo
 .cache*
 .git/*
+.gnupg/*
+.lesshst
