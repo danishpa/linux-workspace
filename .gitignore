@@ -2,3 +2,5 @@
 .ssh*
 projects/*
 .viminfo
+.cache*
+.git/*
