@@ -1,0 +1,4 @@
+.bash_*
+.ssh*
+projects/*
+.viminfo
