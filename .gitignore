@@ -6,3 +6,5 @@ projects/*
 .git/*
 .gnupg/*
 .lesshst
+.ipython*
+.python_history
